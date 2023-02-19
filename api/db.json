@@ -9,24 +9,10 @@
     },
     {
       "name": "Eugenio",
-      "occupation": "Programador",
+      "occupation": "UX/UI",
       "cartoon": true,
-      "weapon": "WindowsPC",
+      "weapon": "MacPC",
       "id": 4
-    },
-    {
-      "name": "Eugenio",
-      "occupation": "Programador",
-      "cartoon": true,
-      "weapon": "WindowsPC",
-      "id": 5
-    },
-    {
-      "name": "Eugenio",
-      "occupation": "Programador",
-      "cartoon": true,
-      "weapon": "WindowsPC",
-      "id": 6
     }
   ]
 }
