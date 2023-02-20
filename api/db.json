@@ -1,18 +1,18 @@
 {
   "characters": [
     {
-      "id": 2,
-      "name": "Luke Skywalker",
-      "occupation": "Jedi Knight",
-      "weapon": "Lightsaber",
-      "cartoon": false
-    },
-    {
       "name": "Eugenio",
       "occupation": "UX/UI",
       "cartoon": true,
       "weapon": "MacPC",
       "id": 4
+    },
+    {
+      "name": "Adrian",
+      "occupation": "Ex-Programador",
+      "cartoon": true,
+      "weapon": "MacPC",
+      "id": 5
     }
   ]
 }
